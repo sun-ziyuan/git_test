@@ -5,5 +5,6 @@
 public class Test1 {
     public static void main(String[] args) {
         System.out.println("szy study java");
+        System.out.println("szy");
     }
 }
