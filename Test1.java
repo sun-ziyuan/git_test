@@ -8,5 +8,6 @@ public class Test1 {
         System.out.println("szy");
         System.out.println("szy");
         System.out.println("szy");
+        System.out.println("szy");
     }
 }
